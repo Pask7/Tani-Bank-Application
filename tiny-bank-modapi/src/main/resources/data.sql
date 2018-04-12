@@ -1,5 +1,5 @@
-Drop table if exists Customer;
-Drop table if exists Account;
+/*Drop table if exists Customer;
+Drop table if exists Account;*/
 
 create table Customer
 (
