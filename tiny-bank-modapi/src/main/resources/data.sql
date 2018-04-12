@@ -1,4 +1,4 @@
-/*Drop table if exists Customer;
+Drop table if exists Customer;
 Drop table if exists Account;
 
 create table Customer
@@ -20,4 +20,4 @@ create table Account
    displayName varchar(255),
    primary key(id)
  
-);*/
+);
